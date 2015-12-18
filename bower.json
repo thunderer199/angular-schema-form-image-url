@@ -1,0 +1,21 @@
+{
+  "name": "asf-image-url",
+  "description": "Plugin for angular schema form",
+  "main": "index.js",
+  "authors": [
+    "Vladislav Lashko <v.lashko@yahoo.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6"
+  }
+}
